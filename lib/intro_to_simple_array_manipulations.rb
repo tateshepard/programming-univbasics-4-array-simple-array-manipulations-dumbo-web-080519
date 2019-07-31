@@ -1,4 +1,4 @@
-rain_bow = ["red", "orange", "yellow", "green", "blue", "purple"]
+array = ["red", "orange", "yellow", "green", "blue", "purple"]
 
 def using_push(array, string)
   string = "violet"
@@ -27,7 +27,7 @@ def shift_with_args(array)
 end
 
 def using_concat(array, array2)
-  array.concat.array2
+  array.concat(array2)
 end
 
   
