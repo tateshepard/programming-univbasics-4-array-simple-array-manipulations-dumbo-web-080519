@@ -1,4 +1,4 @@
-array = ["red", "orange", "yellow", "green", "blue", "purple"]
+rain_bow = ["red", "orange", "yellow", "green", "blue", "purple"]
 
 def using_push(array, string)
   string = "violet"
